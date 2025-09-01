@@ -61,7 +61,8 @@ ticketBooking-main/
 6. Cancel Booking
 7. Exit
 
-🧑‍💻 Technologies Used
+###🧑‍💻 Technologies Used
+
 Java 17
 
 Gradle
@@ -70,10 +71,10 @@ JSON File Handling (ObjectMapper)
 
 OOPs Principles
 
-📁 Data Storage
+###📁 Data Storage
 User and train data is stored in localDb/*.json files using Jackson JSON processor.
 
-📌 Notes
+###📌 Notes
 This is a basic CLI project ideal for learning OOP, file I/O, and user workflows.
 
 You can expand it with:
